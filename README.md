@@ -1,0 +1,2 @@
+# MyOwnGit
+self teaching
